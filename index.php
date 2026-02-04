@@ -37,8 +37,8 @@ include 'config.php';
 
     <header>
         <div class="logo-container">
-            <img src="logo.png" alt="Drowning Fish Rescue">
-            <span class="logo-text">Drowning Fish Rescue</span>
+            <img src="logo.png" alt="Home Reporting System">
+            <span class="logo-text">Home Reporting System</span>
         </div>
         <h1>House Records</h1>
     </header>
