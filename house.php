@@ -334,7 +334,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $house_name; ?> - Drowning Fish Rescue</title>
+    <title><?php echo $house_name; ?> - Home Reporting System</title>
     <link rel="stylesheet" href="styles.css">
     <script src="scripts.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -367,8 +367,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     <header>
         <div class="logo-container">
-            <img src="logo.png" alt="Drowning Fish Rescue" style="max-width:220px; height:auto;">
-            <span class="logo-text">Drowning Fish Rescue</span>
+            <img src="logo.png" alt="Home Reporting System" style="max-width:220px; height:auto;">
+            <span class="logo-text"></span>
         </div>
         
         <div style="margin-left:auto; display:flex; align-items:center; gap:20px;">
