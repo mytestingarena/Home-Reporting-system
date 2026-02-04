@@ -1,5 +1,5 @@
 -- schema.sql
--- Complete initial setup script for Drowning Fish Rescue house records database
+-- Complete initial setup script for Home Reporting System house records database
 -- Run this entire file as one script in phpMyAdmin, MySQL Workbench, or mysql client
 
 -- 1. Create the database if it doesn't exist
