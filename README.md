@@ -100,3 +100,7 @@ If everything is configured correctly, you should see the main page load.
 Good luck — complaints can go straight to the trash can.
 Made with mild annoyance somewhere in a dell.
 @mytestingarena • 2026
+
+
+
+If it works for you, great.  If it doesn't, send your complaints to the trashbin.  You're on your own from here.  I will update it as I add things, but I am not fixing anything for anyone. :P
